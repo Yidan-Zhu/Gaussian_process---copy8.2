@@ -4,7 +4,7 @@ visit: https://yidan-zhu.github.io/Gaussian_process---copy8.2/
 
 Move the fixed point(s) around by dragging and dropping.
 
-==============================
+========================================
 
 - A Simple Explanation:
 
